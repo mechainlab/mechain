@@ -10,7 +10,7 @@ Mechain is the privacy and scaling layer of web3.
 
 #### Clone git repository
 ```bash
-git clone https://github.com/mechain-Network/mechain.git
+git clone https://github.com/mechainlab/mechain.git
 cd mechain/cmd/mechaind
 go install -tags ledger ./...
 sudo mv $HOME/go/bin/mechaind /usr/bin/
