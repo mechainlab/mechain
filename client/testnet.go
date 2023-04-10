@@ -311,7 +311,7 @@ func initTestnetFiles(
 			return err
 		}
 
-		accStakingTokens := sdk.TokensFromConsensusPower(5000, ethermint.PowerReduction)
+		accStakingTokens := sdk.TokensFromConsensusPower(1000000000, ethermint.PowerReduction)
 		coins := sdk.Coins{
 			sdk.NewCoin(ethermint.AttoPhoton, accStakingTokens),
 		}
