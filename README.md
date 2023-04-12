@@ -4,7 +4,8 @@
 </div>
 
 Mechain is the privacy and scaling layer of web3.
-
+* ZK-privacy + EVM + Defi
+* Layer2 powered by high-performance Infrastructure
 
 ## Installation
 
